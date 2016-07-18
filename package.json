@@ -1,6 +1,6 @@
 {
   "name": "get-query",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get get request parameter from browser",
   "main": "dist/get-query.js",
   "scripts": {
