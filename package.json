@@ -7,7 +7,7 @@
     "build": "babel get-query.js --out-dir dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sabbir Ahmed <mail@thesabbir.com>",
+  "author": "Sabbir Ahmed <mail@thesabbir.com> (https://thesabbir.com)",
   "license": "MIT",
   "repository": {
     "type": "git",
