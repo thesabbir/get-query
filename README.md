@@ -1,11 +1,14 @@
-### Usage
+## When you want to access get query parameters from browser.
 
-When you want to access get parameters from browser.
+### Installation
 
+```sh
+npm install get-query --save
+```
 
 ### Example
 
-Suppouse we have link with query parameters:
+Suppose we have link with query parameters:
 `http://localhost/home?name=Joe&subs=1,2,3`
 
 
