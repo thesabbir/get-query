@@ -9,6 +9,14 @@
   },
   "author": "Sabbir Ahmed <mail@thesabbir.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thesabbir/get-query.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thesabbir/get-query/issues"
+  },
+  "keywords": ["get", "parameters", "browser", "query", "query-string"],
   "devDependencies": {
     "babel-cli": "^6.5.2",
     "babel-preset-es2015": "^6.9.0"
