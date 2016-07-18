@@ -8,7 +8,7 @@ npm install get-query --save
 
 ### Example
 
-Suppouse we have link with query parameters:
+Suppose we have link with query parameters:
 `http://localhost/home?name=Joe&subs=1,2,3`
 
 
