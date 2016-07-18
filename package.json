@@ -2,9 +2,9 @@
   "name": "get-query",
   "version": "1.0.1",
   "description": "Get get request parameter from browser",
-  "main": "dist/get-query.js",
+  "main": "lib/get-query.js",
   "scripts": {
-    "build": "babel get-query.js --out-dir dist",
+    "build": "babel src --out-dir lib",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sabbir Ahmed <mail@thesabbir.com> (https://thesabbir.com)",
